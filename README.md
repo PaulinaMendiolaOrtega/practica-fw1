@@ -1,13 +1,13 @@
 # practica-fw1
 
-Numero de control: 19120093
+Numero de control: 
 
-Nombre completo : Paulina Mendiola Ortega
+Nombre completo :
 
-Curp: MEOP010725MONCRLA8
+Curp: 
 
-Direccion de domicilio: San FRancisco Javier 
+Direccion de domicilio: 
 
-Numero de telefono: 2711851790
+Numero de telefono: 
 
-Correo institucional: 19120093@ajalpan tecnm.mx 
+Correo institucional: 
