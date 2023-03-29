@@ -1,5 +1,6 @@
 # practica-fw1
 
+<<<<<<< HEAD
 Numero de control: 
 
 Nombre completo:
@@ -13,3 +14,6 @@ Numero de telefono:
 Correo institucional: 
 
 rama1
+=======
+Reservado para la fucion de ramas
+>>>>>>> main
